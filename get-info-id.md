@@ -18,7 +18,7 @@ GET https://graph.facebook.com/userID
 | `access_token` | `string` | **Bắt buộc**. Token của bạn |
 | `userID` | `string` | ID cần lấy thông tin |
 
-### Respone
+### Response
 
 ```json
 {
