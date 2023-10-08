@@ -19,7 +19,7 @@ POST https://graph.facebook.com/idUser_idPost/likes
 | `idPost` | `string` | ID bài viết |
 
 
-### Respone
+### Response
 ```text
 true
 ```
