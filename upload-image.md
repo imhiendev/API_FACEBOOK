@@ -11,7 +11,7 @@ POST https://graph.facebook.com/v13.0/me/photos
 | `file` | `string` | Đường dẫn ảnh |
 
 
-### Respone
+### Response
 ```json
 {
     "id": "3398094590451171",
@@ -32,7 +32,7 @@ POST https://graph.facebook.com/v13.0/me/photos
 | `file` | `string` | Đường dẫn ảnh |
 
 
-### Respone
+### Response
 ```json
 {
     "id": "122097893528073346",
