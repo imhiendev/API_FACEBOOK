@@ -20,7 +20,7 @@ GET https://graph.facebook.com/potstID/comments
 | `limit` | `int` | Số bình luận cần lấy trong một lần request |
 
 
-### Respone
+### Response
 ```json
 {
     "data": [
