@@ -18,7 +18,7 @@ GET https://graph.facebook.com/v13.0/page_id/feed?fields=source,message
 | `access_token` | `string` | **Bắt buộc**. Token của bạn |
 | `page_id` | `string` | Thay thế thành id cần lấy dữ liệu |
 
-### Respone
+### Response
 
 ```json
 {
@@ -53,7 +53,7 @@ POST https://graph-video.facebook.com/v18.0/me/videos
 | `file_url` | `string` | Thay thế thành giá trị source video |
 | `description` | `string` | Thay thế thành giá trị message |
 
-### Respone
+### Response
 ```json
 {
     "error": {
