@@ -18,3 +18,11 @@ https://github.com/imhiendev/get-token-page-facebook
 + [LẤY THÔNG TIN UID](https://github.com/imhiendev/API_FACEBOOK/blob/main/get-info-id.md)
 + [LẤY BÌNH LUẬN BÀI VIẾT](https://github.com/imhiendev/API_FACEBOOK/blob/main/get-comment-post.md)
 + [ĐĂNG ẢNH PROFILE/PAGE](https://github.com/imhiendev/API_FACEBOOK/blob/main/upload-image.md)
+
+
+## Donation
+
+>Ủng hộ em cốc cà phê để em có động lực đăng nhiều API hơn ạ.
+
+```19036119554018 / TECHCOMBANK / VÕ THANH MINH HIỀN```
+
