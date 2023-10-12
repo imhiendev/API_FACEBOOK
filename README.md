@@ -19,6 +19,7 @@ https://github.com/imhiendev/get-token-page-facebook
 + [LẤY BÌNH LUẬN BÀI VIẾT](https://github.com/imhiendev/API_FACEBOOK/blob/main/get-comment-post.md)
 + [ĐĂNG ẢNH PROFILE/PAGE](https://github.com/imhiendev/API_FACEBOOK/blob/main/upload-image.md)
 + [ĐĂNG BÀI VÀO NHÓM](https://github.com/imhiendev/API_FACEBOOK/blob/main/upload-status-to-group.md)
++ [LẤY THÔNG TIN UID TỪ TIN NHẮN PAGE](https://github.com/imhiendev/API_FACEBOOK/blob/main/get-info-user-message-page.md)
 
 
 ## Donation
