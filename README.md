@@ -23,10 +23,6 @@ https://github.com/imhiendev/get-token-page-facebook
 + [CHIA SẼ BÀI VIẾT VÀO NHÓM](https://github.com/imhiendev/API_FACEBOOK/blob/main/share-post-to-group.md)
 
 ## LIST API TRẢ PHÍ [**PAID**]
-+ [THẢ CẢM XÚC BÀI VIẾT/COMMENT ](https://t.me/sironho)
-+ [REVIEW PAGE BY TOKEN ](https://t.me/sironho)
-+ [GET TOKEN EAAAU BY COOKIE ](https://t.me/sironho)
-+ [GET TOKEN EAAAU BY API ANDROID ](https://t.me/sironho)
 + [SCAN GROUP FROM UID](https://t.me/sironho)
 + [API CHECK GROUP KIỂM DUYỆT](https://t.me/sironho)
 + [API REG PAGE BY TOKEN](https://t.me/sironho)
