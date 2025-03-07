@@ -1,5 +1,5 @@
 
-## 🔑 Yêu cầu
+## 🔑 Yêu cầu **(Not working)**
 
 + 📝 Sử dụng token Eaabw. Đọc hướng dẫn [tại đây](https://github.com/imhiendev/get-token-instagram-facebook) để biết cách lấy hoặc sao chép đường dẫn phía dưới
 
@@ -21,6 +21,7 @@ https://github.com/imhiendev/get-token-page-facebook
 + [ĐĂNG BÀI VÀO NHÓM](https://github.com/imhiendev/API_FACEBOOK/blob/main/upload-status-to-group.md)
 + [LẤY THÔNG TIN UID TỪ TIN NHẮN PAGE](https://github.com/imhiendev/API_FACEBOOK/blob/main/get-info-user-message-page.md)
 + [CHIA SẼ BÀI VIẾT VÀO NHÓM](https://github.com/imhiendev/API_FACEBOOK/blob/main/share-post-to-group.md)
++ [ĐĂNG BÀI ẨN DANH VÀO NHÓM](https://github.com/imhiendev/API_FACEBOOK/blob/main/facebook-upload-post-incognito.md)
 
 ## LIST API TRẢ PHÍ [**PAID**]
 + [SCAN GROUP FROM UID](https://t.me/sironho)
